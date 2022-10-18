@@ -21,37 +21,5 @@ export default {
         hotspot: true,
       },
     },
-    {
-      name: 'imageUrl',
-      title: 'ImageURL',
-      type: 'image',
-      options: {
-        hotspot: true,
-      },
-    },
-    {
-      name: 'imageUrl',
-      title: 'ImageURL',
-      type: 'image',
-      options: {
-        hotspot: true,
-      },
-    },
-    {
-      name: 'imageUrl',
-      title: 'ImageURL',
-      type: 'image',
-      options: {
-        hotspot: true,
-      },
-    },
-    {
-      name: 'imageUrl',
-      title: 'ImageURL',
-      type: 'image',
-      options: {
-        hotspot: true,
-      },
-    },
   ],
 }

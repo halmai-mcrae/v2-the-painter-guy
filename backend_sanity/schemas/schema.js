@@ -10,7 +10,7 @@ import abouts from './abouts'
 import collections from './collections'
 import services from './services'
 import works from './works'
-import workCollections from './workCollections'
+import workCollection from './workCollection'
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -27,6 +27,6 @@ export default createSchema({
     collections,
     services,
     works,
-    workCollections,
+    workCollection,
   ]),
 })
