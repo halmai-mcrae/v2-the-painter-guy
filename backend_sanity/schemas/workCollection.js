@@ -10,11 +10,11 @@ export default {
     },
     {
       name: 'desc',
-      title: 'Desc',
+      title: 'Description',
       type: 'string',
     },
     {
-      name: 'imageUrl',
+      name: 'imgUrl',
       title: 'ImageURL',
       type: 'image',
       options: {
