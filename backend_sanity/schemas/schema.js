@@ -8,6 +8,7 @@ import brands from './brands'
 import contact from './contact'
 import abouts from './abouts'
 import collections from './collections'
+import slider from './slider'
 import services from './services'
 import works from './works'
 import workCollection from './workCollection'
@@ -26,6 +27,7 @@ export default createSchema({
     abouts,
     collections,
     services,
+    slider,
     works,
     workCollection,
   ]),
